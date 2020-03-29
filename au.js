@@ -475,7 +475,7 @@ function setGUI() {
         <span id="aiText">Bots AI: <b id="botsAI">Disabled</b></span>
         <br>
         <input type="text" id="botsName" placeholder="Bots Name" maxlength="15" spellcheck="false">
-        <input type="number" id="botsAmount" Disabled="true" placeholder="Bots Amount" min="10" max="199" spellcheck="false">
+        <input type="number" id="botsAmount" placeholder="Bots Amount" min="10" max="199" spellcheck="false">
 		<input type="text" id="botsRemoteIP" placeholder="ws://localhost:8083" maxlength="100" spellcheck="false">
         <button id="connect">Connect</button>
         <br>
